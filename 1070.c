@@ -3,7 +3,7 @@
 int main(){
     int a;
     scanf("%d",&a);
-
+    
     switch (a){
         case 3:
         case 4:
